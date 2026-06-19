@@ -34,3 +34,8 @@
 -FLASK
 -SCIKIT-LEARN
 -JOBLIB
+
+## Dataset
+Download train.csv from:
+https://www.kaggle.com/competitions/titanic/data
+Place it in the project root folder.
